@@ -1,0 +1,14 @@
+D:\Intern\React\AspNetCoreApi\bin\Debug\netcoreapp2.2\AspNetCoreApi.deps.json
+D:\Intern\React\AspNetCoreApi\bin\Debug\netcoreapp2.2\AspNetCoreApi.runtimeconfig.json
+D:\Intern\React\AspNetCoreApi\bin\Debug\netcoreapp2.2\AspNetCoreApi.runtimeconfig.dev.json
+D:\Intern\React\AspNetCoreApi\bin\Debug\netcoreapp2.2\AspNetCoreApi.dll
+D:\Intern\React\AspNetCoreApi\bin\Debug\netcoreapp2.2\AspNetCoreApi.pdb
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.csprojAssemblyReference.cache
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.csproj.CoreCompileInputs.cache
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.RazorAssemblyInfo.cache
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.RazorAssemblyInfo.cs
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.AssemblyInfoInputs.cache
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.AssemblyInfo.cs
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.RazorTargetAssemblyInfo.cache
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.dll
+D:\Intern\React\AspNetCoreApi\obj\Debug\netcoreapp2.2\AspNetCoreApi.pdb
